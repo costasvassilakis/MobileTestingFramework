@@ -1,8 +1,7 @@
 # Data for The Additional Testsuite Framework for Mobile Applications
 This repository contains the tests conducted for validating the Additional Testsuite Framework for Mobile Applications.
 
-* the ATF/MA repository is the jkslinks software:  https://github.com/EAT-JBCOMMUNITY/EAT/tree/master/modules/testcases/jdkAll/Android/
-jkslinks
+* the ATF/MA repository is the jkslinks software:  https://github.com/EAT-JBCOMMUNITY/EAT/tree/master/modules/testcases/jdkAll/Android/jkslinks
 * differences of version 1 and version 2 of the jkslinks software:  https://github.com/EAT-JBCOMMUNITY/EAT/blob/master/modules/src/main/java/org/example/jkslinks/version1/MainActivity.java and https://github.com/EAT-JBCOMMUNITY/EAT/blob/master/modules/src/main/java/org/example/jkslinks/version2/MainActivity.java
 * JBoss Server Additional Testsuite. https://github.com/panossot/EAT-1
 *  example of feature-based testing: https://github.com/EAT-JBCOMMUNITY/EAT/tree/master/modules/testcases/jdkAll/Android/testorchestratorwithtestcoveragesample
